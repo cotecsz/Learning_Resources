@@ -6,25 +6,53 @@
 
 [TOC]
 
-
-
  ## 感知机
 
 基本思想：通过一个平面，
 
-<img src=".\images\distance.png" 
-     alt="drawing" 
-     width="400"/>
+<div align='center'>
+<img src='assets/distance.png' width='800'>
+</div>
 
-<img src=".\images\loss.png" 
-     alt="drawing" 
-     width="400"/>
+<div align='center'>
+<img src='assets/loss.png' width='800'>
+</div>
 
-<img src=".\images\proof.png" 
-     alt="drawing" 
-     width="500"/>
+<div align='center'>
+<img src='assets/proof.png' width='800'>
+</div>
 
 ## Logistic Regression
 
+### 最大似然
 
+
+
+## 损失函数
+
+### 最小均方误差
+
+### 交叉熵损失函数
+
+
+
+## 特征提取
+
+<div align='center'>
+<img src='assets/image-20190814210018706.png' width='800'>
+</div>
+
+
+
+
+
+### 特征的基本要求
+
+- 光照不变性
+- 平移不变性
+- 旋转不变性
+
+
+
+## 感受野
 
