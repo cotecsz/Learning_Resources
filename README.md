@@ -6,9 +6,10 @@
 
 ## Python 进阶
 
-1. [Python Cookbook（第三版中文）.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Python Cookbook（第三版中文）.pdf)
-2. [Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf)
+1. [Python Cookbook（第三版中文）.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Python_Cookbook.pdf)
+2. [Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Effective_Python.Brett Slatkin.pdf)
 3. [流畅的Python.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/流畅的Python.pdf)
-4. [Cython_ A Guide for Python Programmers - Kurt W. Smith.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Cython_ A Guide for Python Programmers - Kurt W. Smith.pdf)
+4. [Cython_ A Guide for Python Programmers - Kurt W. Smith.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Cython_ A Guide_for_Python_Programmers.pdf)
 5. [map_reduce.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/map_reduce.pdf)
 6. [Python源码剖析（完整版）.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Python源码剖析（完整版）.pdf)
+
