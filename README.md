@@ -12,4 +12,5 @@
 4. [Cython_ A Guide for Python Programmers.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Cython_A_Guide_for_Python_Programmers.pdf)
 5. [map_reduce.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/map_reduce.pdf)
 6. [Python源码剖析（完整版）.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Python源码剖析（完整版）.pdf)
+7. [Pandas_Cheat_Sheet_zh_CN.pdf](https://github.com/cooldeepAI/Learning_Resources/blob/master/Python进阶/Pandas_Cheat_Sheet_zh_CN.pdf)
 
